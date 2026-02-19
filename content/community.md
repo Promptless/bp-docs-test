@@ -9,14 +9,6 @@ summary="Join other users, contributors and providers of Cloud Native Buildpacks
 
 Cloud Native Buildpacks is better because of our contributors and maintainers. It is because of you that we can bring great software to the community. See below for further details on the several ways you can get more involved with the project.
 
-## Check out GitHub
-
-You can follow the work we do, be part of on-going discussions, and examine our improvement ideas on each [respective repo’s](https://github.com/buildpacks) GitHub issues page.
-
-If you're a newcomer, check out the good first issue label in each repository, take [pack](https://github.com/buildpacks/pack/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22) for example.
-
-If you are ready to jump in and add code, tests, or help with documentation, follow the guidelines in the contributing documentation in the respective repository.
-
 ## Join our Slack channels
 
 Join any of our several channels within the [Cloud Native Computing Foundation’s Slack workspace](https://cloud-native.slack.com/) and talk to us and over 1,000 other community members:
@@ -31,6 +23,14 @@ Join any of our several channels within the [Cloud Native Computing Foundation�
 - [#buildpacks-pack-cli](https://cloud-native.slack.com/archives/C0331B61A1Y)
 - [#buildpacks-platform](https://cloud-native.slack.com/archives/C033DV9CSAD)
 - [#buildpacks-spec](https://cloud-native.slack.com/archives/C033DV9EBDF)
+
+## Check out GitHub
+
+You can follow the work we do, be part of on-going discussions, and examine our improvement ideas on each [respective repo's](https://github.com/buildpacks) GitHub issues page.
+
+If you're a newcomer, check out the good first issue label in each repository, take [pack](https://github.com/buildpacks/pack/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22) for example.
+
+If you are ready to jump in and add code, tests, or help with documentation, follow the guidelines in the contributing documentation in the respective repository.
 
 ## Attend our Working Group meetings
 
