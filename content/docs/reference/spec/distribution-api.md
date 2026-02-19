@@ -9,10 +9,6 @@ This specification defines the artifact format, delivery mechanism, and order re
 
 <!--more-->
 
-## Buildpack Descriptor
-
-A buildpack must contain a `buildpack.toml` file in its root directory.
-
 ## Buildpackage
 
 A buildpackage is a distributable artifact that contains a buildpack. Its format may be either:
