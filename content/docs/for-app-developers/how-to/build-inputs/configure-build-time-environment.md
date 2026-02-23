@@ -65,6 +65,8 @@ The `--env-file` parameter must be a path to a file where each line is one of th
 
 - `VARIABLE=VALUE`
 - `VARIABLE`, where the value of `VARIABLE` will be taken from the current environment
+- A comment line starting with `#` (ignored)
+- An empty line (ignored)
 
 ##### Example:
 
@@ -76,7 +78,7 @@ export FOO=BAR
 
 2. Create an env file
 ```
-echo -en "HELLO=WORLD\nFOO" > ./envfile
+echo -en "# Set build variables\nHELLO=WORLD\nFOO" > ./envfile
 ```
 <!--+- "{{execute}}"+-->
 
